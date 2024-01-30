@@ -4,7 +4,7 @@
 🎤 Like to share my knowledge <br>
 📫 How to reach me ? devrabiul@gmail.com <br>
 
-![Profile views](https://gpvc.arturio.dev/devrabiul)  
+![Profile views](https://gpvc.arturio.dev/devrabiul)
 
 I’m a Full Stack Developer who is passionate about making error-free websites with Laravel and React.js Framework. A self-taught fast-learner full-stack developer from Dhaka. I have a passion for learning and sharing my knowledge with others as publicly as possible. Now I'm a working on 6amTech as a Laravel Developer. I love to work with new technologies and developing web applications like Laravel Framework. And love to solve real-world problems. 
 
@@ -66,3 +66,4 @@ I like to explore new technologies and develop software solutions and quick hack
 <img src="https://activity-graph.herokuapp.com/graph?username=devrabiul&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <img src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%">
+
